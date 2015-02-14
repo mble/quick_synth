@@ -1,0 +1,2 @@
+defmodule QuickSynth do
+end
